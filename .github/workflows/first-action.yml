@@ -12,3 +12,4 @@ jobs:
       - name: Print Good bye
         run: |
           echo "Job Done"
+          echo "Bye!"
