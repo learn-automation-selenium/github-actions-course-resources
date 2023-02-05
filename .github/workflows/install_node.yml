@@ -1,0 +1,2 @@
+name: Install Node JS
+on: workflow_dispatch
